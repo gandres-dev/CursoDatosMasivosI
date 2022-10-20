@@ -3,35 +3,35 @@ Este repositorio contiene las diapositivas, libretas de trabajo y tareas del cur
 
 # Prácticas
 - Unidada 1 Conceptos básicos
-  - [Practica Hello spark](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/main/notebooks/1a_hello_pyspark.ipynb)
+  - [Practica Hello spark](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/master/notebooks/1a_hello_pyspark.ipynb)
 - Unidada 2 Modelo de mapeo y reducción
-  - [Practica MapReduce](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/main/notebooks/2a_map_reduce.ipynb)
-  - [Practica Lazy evaluation](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/main/notebooks/2b_lazy_evaluation.ipynb)
-  - [Practica Operaciones basicas](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/main/notebooks/2c_operaciones_basicas.ipynb)
+  - [Practica MapReduce](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/master/notebooks/2a_map_reduce.ipynb)
+  - [Practica Lazy evaluation](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/master/notebooks/2b_lazy_evaluation.ipynb)
+  - [Practica Operaciones basicas](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/master/notebooks/2c_operaciones_basicas.ipynb)
 - Unidad 3 Búsqueda de elementos similares
-  - [Practica Funciones hash](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/main/notebooks/3a_funciones_hash.ipynb)
-  - [Practica Indice inverso](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/main/notebooks/3b_indice_inverso.ipynb)
-  - [Practica Minhash](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/main/notebooks/3c_minhash.ipynb)
-  - [Practica Buscador imagenes](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/main/notebooks/3d_buscador_imagenes.ipynb)
-  - [Practica LSH](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/main/notebooks/3e_lsh.ipynb)
-  - [Practica HNMSlib](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/main/notebooks/3f_hnmslib.ipynb)
-  - [Practica Minhash pyspark](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/main/notebooks/3g_minhash_pyspark.ipynb)
+  - [Practica Funciones hash](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/master/notebooks/3a_funciones_hash.ipynb)
+  - [Practica Indice inverso](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/master/notebooks/3b_indice_inverso.ipynb)
+  - [Practica Minhash](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/master/notebooks/3c_minhash.ipynb)
+  - [Practica Buscador imagenes](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/master/notebooks/3d_buscador_imagenes.ipynb)
+  - [Practica LSH](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/master/notebooks/3e_lsh.ipynb)
+  - [Practica HNMSlib](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/master/notebooks/3f_hnmslib.ipynb)
+  - [Practica Minhash pyspark](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/master/notebooks/3g_minhash_pyspark.ipynb)
 
 - Unidad 4  Algoritmos para flujos de datos
-  - [Practica Muestreo presa](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/main/notebooks/4a_muestreo_presa.ipynb)
-  - [Practica Streaming ejemplo basico](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/main/notebooks/4a_streaming_ejemplo_basico.ipynb)
-  - [Practica Filtro Bloom](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/main/notebooks/4b_Filtro_Bloom.ipynb)
-  - [Practica Elementos distintos](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/main/notebooks/4c_elementos_distintos.ipynb)
-  - [Practica Momentos](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/main/notebooks/4d_momentos.ipynb)
-  - [Practica Kafka step1 install](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/main/notebooks/4e_kafka_step1_install.ipynb)
-  - [Practica Kafka step2 startKafka](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/main/notebooks/4e_kafka_step2_startKafka.ipynb)
-  - [Practica Kafka step3 createTopic](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/main/notebooks/4e_kafka_step3_createTopic.ipynb)
-  - [Practica Kafka step4 microservicio Twitter](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/main/notebooks/4e_kafka_step4_microservicio_Twitter.ipynb)
-  - [Practica Kafka step5 microservicio pySpark](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/main/notebooks/4e_kafka_step5_microservicio_pySpark.ipynb)
+  - [Practica Muestreo presa](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/master/notebooks/4a_muestreo_presa.ipynb)
+  - [Practica Streaming ejemplo basico](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/master/notebooks/4a_streaming_ejemplo_basico.ipynb)
+  - [Practica Filtro Bloom](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/master/notebooks/4b_Filtro_Bloom.ipynb)
+  - [Practica Elementos distintos](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/master/notebooks/4c_elementos_distintos.ipynb)
+  - [Practica Momentos](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/master/notebooks/4d_momentos.ipynb)
+  - [Practica Kafka step1 install](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/master/notebooks/4e_kafka_step1_install.ipynb)
+  - [Practica Kafka step2 startKafka](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/master/notebooks/4e_kafka_step2_startKafka.ipynb)
+  - [Practica Kafka step3 createTopic](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/master/notebooks/4e_kafka_step3_createTopic.ipynb)
+  - [Practica Kafka step4 microservicio Twitter](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/master/notebooks/4e_kafka_step4_microservicio_Twitter.ipynb)
+  - [Practica Kafka step5 microservicio pySpark](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/master/notebooks/4e_kafka_step5_microservicio_pySpark.ipynb)
 
 
 --- 
-## [Mini proyecto 1 Procesamiento y análisis de datos con PySpark](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/main/proyectos/01-miniproyecto/MD1-MiniProyectoI_Final.ipynb)
+## [Mini proyecto 1 Procesamiento y análisis de datos con PySpark](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/master/proyectos/01-miniproyecto/MD1-MiniProyectoI_Final.ipynb)
 
 Base de datos utilizada: Yahoo Answers.
 ![treemap](img/treemap.png)
@@ -43,7 +43,7 @@ A partir de esta colección de documentos de texto se realizo lo siguiente:
 - Filtración de las palabras, bigramas y trigramas que ocurren en menos del 5% de los documentos de la colección.
 
 
-## [Mini proyecto 2 Búsqueda de pares similares](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/main/proyectos/02-miniproyecto/DM-MiniProyectoII.ipynb)
+## [Mini proyecto 2 Búsqueda de pares similares](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/master/proyectos/02-miniproyecto/DM-MiniProyectoII.ipynb)
 
 Large Movie Review Dataset: http://ai.stanford.edu/~amaas/data/sentiment/
 
@@ -52,7 +52,7 @@ El proyecto consiste en la implementación de los métodos de búsquedas min has
 ![search-similitud](img/search-similitud.png)
 
 
-## [Mini proyecto 3 Análisis y procesamiento de flujos de datos](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/main/proyectos/03-miniproyecto/05-consumers/)
+## [Mini proyecto 3 Análisis y procesamiento de flujos de datos](https://nbviewer.org/github/gandres-dev/CursoDatosMasivosI/blob/master/proyectos/03-miniproyecto/05-consumers/)
 
 API utilizada: https://min-api.cryptocompare.com/
 
